@@ -1,0 +1,8 @@
+{
+  "name": "simple-spawn",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:dreamllq/simple-spawn.git",
+  "author": "lvliqi <dreamllq@gmail.com>",
+  "license": "MIT"
+}
